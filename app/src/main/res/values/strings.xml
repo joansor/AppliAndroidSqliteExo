@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoNote</string>
+    <string name="inscription_name">Inscription</string>
+    <string name="connexion_name">Connexion</string>
+</resources>
